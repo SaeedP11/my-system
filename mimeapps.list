@@ -1,0 +1,9 @@
+[Added Associations]
+image/jpeg=org.kde.gwenview.desktop;
+image/png=firefox.desktop;org.kde.gwenview.desktop;
+text/plain=org.xfce.mousepad.desktop;
+
+[Default Applications]
+image/jpeg=org.kde.gwenview.desktop
+image/png=org.kde.gwenview.desktop;
+text/plain=org.xfce.mousepad.desktop;

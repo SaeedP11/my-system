@@ -1,0 +1,18 @@
+font:
+  normal:
+    family: Gintronic
+    style: Regular
+
+  bold:
+    family: Gintronic
+    style: Bold
+
+  italic:
+    family: Gintronic
+    style: Italic
+
+  bold_italic:
+    family: Gintronic
+    style: Bold Italic
+
+  size: 13
