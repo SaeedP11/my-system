@@ -1,8 +1,8 @@
-/.config/*
-!/.config/alacritty
-!/.config/helix
-!/.config/hypr
-!/.config/moc
-!/.config/swaylock
-!/.config/waybar
-!/.config/mimeapps.list
+/config/*
+!/config/alacritty
+!/config/helix
+!/config/hypr
+!/config/moc
+!/config/swaylock
+!/config/waybar
+!/config/mimeapps.list
