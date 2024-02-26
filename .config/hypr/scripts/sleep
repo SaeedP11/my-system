@@ -1,2 +1,0 @@
-swayidle -w timeout 1800 'swaylock -f -C $HOME/.config/swaylock/config' \
-            timeout 300 'swaylock -f -C $HOME/.config/swaylock/config'
