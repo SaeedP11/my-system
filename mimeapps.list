@@ -1,9 +1,15 @@
 [Added Associations]
+application/x-visual-studio-code-workspace=code.desktop;
 image/jpeg=org.kde.gwenview.desktop;
 image/png=firefox.desktop;org.kde.gwenview.desktop;
 text/plain=org.xfce.mousepad.desktop;
+video/mp4=vlc.desktop;
+video/x-matroska=vlc.desktop;
 
 [Default Applications]
+application/x-visual-studio-code-workspace=code.desktop;
 image/jpeg=org.kde.gwenview.desktop
 image/png=org.kde.gwenview.desktop;
 text/plain=org.xfce.mousepad.desktop;
+video/mp4=vlc.desktop;
+video/x-matroska=vlc.desktop;
