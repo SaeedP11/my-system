@@ -1,0 +1,18 @@
+[font]
+size = 13
+
+[font.bold]
+family = "Gintronic"
+style = "Bold"
+
+[font.bold_italic]
+family = "Gintronic"
+style = "Bold Italic"
+
+[font.italic]
+family = "Gintronic"
+style = "Italic"
+
+[font.normal]
+family = "Gintronic"
+style = "Regular"
