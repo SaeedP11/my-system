@@ -1,3 +1,5 @@
+.vscode
+
 /config/*
 !/config/alacritty
 !/config/helix
@@ -6,3 +8,4 @@
 !/config/swaylock
 !/config/waybar
 !/config/mimeapps.list
+!/config/starship.toml
