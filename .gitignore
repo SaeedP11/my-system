@@ -5,7 +5,6 @@
 !/config/helix
 !/config/hypr
 !/config/moc
-!/config/swaylock
 !/config/waybar
 !/config/mimeapps.list
 !/config/starship.toml
