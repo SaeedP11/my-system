@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [[ ! -d $1 ]]; then
+  echo "Usage: $0 <dir containing images>"
+  exit 1
+fi
+
+BG_LOCK=$BG_DIR/$(ls -1 $BG_DIR | grep .png | shuf -n 1)
+
+hyprlock

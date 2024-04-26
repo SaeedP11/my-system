@@ -1,0 +1,2 @@
+# !/bin/bash
+docker run --rm -it -w /app --mount type=bind,source=$PWD,target=/app -v node:/root node npm $@
